@@ -1,0 +1,2 @@
+audit_event_id,event_timestamp,event_type,entity_type,entity_id,actor_type,tool,input_version,output_version,review_status
+AUDIT-GENERATION-0001,2026-08-29T00:00:00+08:00,SYNTHETIC_DATA_GENERATED,DATASET,APAC-MIGRATION-SYNTHETIC,SYSTEM,src.generate_data,seed=20260829;clients=200;config=1.0.0,canonical-model=1.0.0;generator=1.0.0,NOT_REQUIRED_SYNTHETIC

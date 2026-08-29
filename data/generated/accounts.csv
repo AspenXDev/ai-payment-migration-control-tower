@@ -1,0 +1,312 @@
+account_id,client_id,account_name,booking_location,currency,in_scope,account_reference
+AC-0001-01,CL-0001,Fictional Verdant Packaging 0001 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0001-01
+AC-0001-02,CL-0001,Fictional Verdant Packaging 0001 Limited Synthetic USD Account,Fictional Wellington Branch,USD,true,SYN-REF-0001-02
+AC-0003-01,CL-0003,Fictional Sakura Components 0003 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0003-01
+AC-0003-02,CL-0003,Fictional Sakura Components 0003 Sdn. Bhd. Synthetic USD Account,Fictional Johor Bahru Branch,USD,true,SYN-REF-0003-02
+AC-0003-03,CL-0003,Fictional Sakura Components 0003 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,false,SYN-REF-0003-03
+AC-0004-01,CL-0004,Fictional Cedar Textiles 0004 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0004-01
+AC-0004-02,CL-0004,Fictional Cedar Textiles 0004 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0004-02
+AC-0005-01,CL-0005,Fictional Lumen Trading 0005 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,true,SYN-REF-0005-01
+AC-0007-01,CL-0007,Fictional Nimbus Trading 0007 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0007-01
+AC-0008-01,CL-0008,Fictional Cedar Logistics 0008 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0008-01
+AC-0009-01,CL-0009,Fictional Mosaic Textiles 0009 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0009-01
+AC-0010-01,CL-0010,Fictional Azure Packaging 0010 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0010-01
+AC-0010-02,CL-0010,Fictional Azure Packaging 0010 Limited Synthetic USD Account,Fictional Wellington Branch,USD,true,SYN-REF-0010-02
+AC-0012-01,CL-0012,Fictional Cedar Robotics 0012 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0012-01
+AC-0012-02,CL-0012,Fictional Cedar Robotics 0012 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0012-02
+AC-0013-01,CL-0013,Fictional Lumen Packaging 0013 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0013-01
+AC-0013-02,CL-0013,Fictional Lumen Packaging 0013 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0013-02
+AC-0013-03,CL-0013,Fictional Lumen Packaging 0013 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,false,SYN-REF-0013-03
+AC-0014-01,CL-0014,Fictional Sakura Textiles 0014 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0014-01
+AC-0014-02,CL-0014,Fictional Sakura Textiles 0014 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0014-02
+AC-0015-01,CL-0015,Fictional Tidal Components 0015 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-CONFLICT-0015
+AC-0015-02,CL-0015,Fictional Tidal Components 0015 Limited Synthetic USD Account,Fictional Wellington Branch,USD,true,SYN-REF-0015-02
+AC-0015-03,CL-0015,Fictional Tidal Components 0015 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,false,SYN-REF-0015-03
+AC-0016-01,CL-0016,Fictional Tidal Foods 0016 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0016-01
+AC-0016-02,CL-0016,Fictional Tidal Foods 0016 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0016-02
+AC-0017-01,CL-0017,Fictional Lumen Foods 0017 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0017-01
+AC-0017-02,CL-0017,Fictional Lumen Foods 0017 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0017-02
+AC-0017-03,CL-0017,Fictional Lumen Foods 0017 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,false,SYN-REF-0017-03
+AC-0018-01,CL-0018,Fictional Verdant Packaging 0018 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0018-01
+AC-0019-01,CL-0019,Fictional Lumen Logistics 0019 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0019-01
+AC-0020-01,CL-0020,Fictional Azure Textiles 0020 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,true,SYN-REF-0020-01
+AC-0021-01,CL-0021,Fictional Azure Foods 0021 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0021-01
+AC-0022-01,CL-0022,Fictional Verdant Trading 0022 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0022-01
+AC-0022-02,CL-0022,Fictional Verdant Trading 0022 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0022-02
+AC-0022-03,CL-0022,Fictional Verdant Trading 0022 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,false,SYN-REF-0022-03
+AC-0023-01,CL-0023,Fictional Nimbus Textiles 0023 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0023-01
+AC-0024-01,CL-0024,Fictional Tidal Components 0024 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0024-01
+AC-0024-02,CL-0024,Fictional Tidal Components 0024 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0024-02
+AC-0024-03,CL-0024,Fictional Tidal Components 0024 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,false,SYN-REF-0024-03
+AC-0025-01,CL-0025,Fictional Lumen Components 0025 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0025-01
+AC-0025-02,CL-0025,Fictional Lumen Components 0025 Perseroan Terbatas Synthetic USD Account,Fictional Surabaya Branch,USD,true,SYN-REF-0025-02
+AC-0025-03,CL-0025,Fictional Lumen Components 0025 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,false,SYN-REF-0025-03
+AC-0026-01,CL-0026,Fictional Mosaic Trading 0026 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0026-01
+AC-0028-01,CL-0028,Fictional Tidal Trading 0028 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0028-01
+AC-0028-02,CL-0028,Fictional Tidal Trading 0028 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0028-02
+AC-0028-03,CL-0028,Fictional Tidal Trading 0028 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,false,SYN-REF-0028-03
+AC-0029-01,CL-0029,Fictional Azure Robotics 0029 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0029-01
+AC-0032-01,CL-0032,Fictional Nimbus Trading 0032 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0032-01
+AC-0032-02,CL-0032,Fictional Nimbus Trading 0032 Sdn. Bhd. Synthetic USD Account,Fictional Johor Bahru Branch,USD,true,SYN-REF-0032-02
+AC-0033-01,CL-0033,Fictional Lumen Components 0033 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0033-01
+AC-0033-02,CL-0033,Fictional Lumen Components 0033 Company Limited Synthetic USD Account,Fictional Chiang Mai Branch,USD,true,SYN-REF-0033-02
+AC-0033-03,CL-0033,Fictional Lumen Components 0033 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,false,SYN-REF-0033-03
+AC-0038-01,CL-0038,Fictional Verdant Components 0038 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0038-01
+AC-0041-01,CL-0041,Fictional Cedar Textiles 0041 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0041-01
+AC-0042-01,CL-0042,Fictional Tidal Logistics 0042 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0042-01
+AC-0042-02,CL-0042,Fictional Tidal Logistics 0042 Sdn. Bhd. Synthetic USD Account,Fictional Johor Bahru Branch,USD,true,SYN-REF-0042-02
+AC-0042-03,CL-0042,Fictional Tidal Logistics 0042 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,false,SYN-REF-0042-03
+AC-0043-01,CL-0043,Fictional Azure Robotics 0043 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0043-01
+AC-0043-02,CL-0043,Fictional Azure Robotics 0043 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0043-02
+AC-0043-03,CL-0043,Fictional Azure Robotics 0043 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,false,SYN-REF-0043-03
+AC-0045-01,CL-0045,Fictional Lumen Components 0045 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0045-01
+AC-0045-02,CL-0045,Fictional Lumen Components 0045 Perseroan Terbatas Synthetic USD Account,Fictional Surabaya Branch,USD,true,SYN-REF-0045-02
+AC-0046-01,CL-0046,Fictional Lumen Logistics 0046 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0046-01
+AC-0047-01,CL-0047,Fictional Nimbus Trading 0047 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0047-01
+AC-0047-02,CL-0047,Fictional Nimbus Trading 0047 Kabushiki Kaisha Synthetic USD Account,Fictional Yokohama Branch,USD,true,SYN-REF-0047-02
+AC-0047-03,CL-0047,Fictional Nimbus Trading 0047 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,false,SYN-REF-0047-03
+AC-0048-01,CL-0048,Fictional Cedar Robotics 0048 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0048-01
+AC-0048-02,CL-0048,Fictional Cedar Robotics 0048 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0048-02
+AC-0049-01,CL-0049,Fictional Mosaic Packaging 0049 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0049-01
+AC-0050-01,CL-0050,Fictional Sakura Textiles 0050 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0050-01
+AC-0050-02,CL-0050,Fictional Sakura Textiles 0050 Limited Synthetic USD Account,Fictional Wellington Branch,USD,true,SYN-REF-0050-02
+AC-0052-01,CL-0052,Fictional Tidal Components 0052 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0052-01
+AC-0052-02,CL-0052,Fictional Tidal Components 0052 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0052-02
+AC-0053-01,CL-0053,Fictional Nimbus Packaging 0053 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0053-01
+AC-0054-01,CL-0054,Fictional Azure Foods 0054 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0054-01
+AC-0054-02,CL-0054,Fictional Azure Foods 0054 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0054-02
+AC-0055-01,CL-0055,Fictional Mosaic Foods 0055 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0055-01
+AC-0056-01,CL-0056,Fictional Sakura Robotics 0056 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0056-01
+AC-0057-01,CL-0057,Fictional Azure Packaging 0057 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0057-01
+AC-0057-02,CL-0057,Fictional Azure Packaging 0057 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0057-02
+AC-0058-01,CL-0058,Fictional Lumen Packaging 0058 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0058-01
+AC-0058-02,CL-0058,Fictional Lumen Packaging 0058 Company Limited Synthetic USD Account,Fictional Chiang Mai Branch,USD,true,SYN-REF-0058-02
+AC-0059-01,CL-0059,Fictional Sakura Components 0059 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0059-01
+AC-0059-02,CL-0059,Fictional Sakura Components 0059 Company Limited Synthetic USD Account,Fictional Chiang Mai Branch,USD,true,SYN-REF-0059-02
+AC-0059-03,CL-0059,Fictional Sakura Components 0059 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,false,SYN-REF-0059-03
+AC-0062-01,CL-0062,Fictional Lumen Textiles 0062 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0062-01
+AC-0062-02,CL-0062,Fictional Lumen Textiles 0062 Perseroan Terbatas Synthetic USD Account,Fictional Surabaya Branch,USD,true,SYN-REF-0062-02
+AC-0062-03,CL-0062,Fictional Lumen Textiles 0062 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,false,SYN-REF-0062-03
+AC-0065-01,CL-0065,Fictional Tidal Components 0065 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0065-01
+AC-0065-02,CL-0065,Fictional Tidal Components 0065 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0065-02
+AC-0065-03,CL-0065,Fictional Tidal Components 0065 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,false,SYN-REF-0065-03
+AC-0066-01,CL-0066,Fictional Sakura Trading 0066 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0066-01
+AC-0066-02,CL-0066,Fictional Sakura Trading 0066 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0066-02
+AC-0067-01,CL-0067,Fictional Sakura Textiles 0067 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0067-01
+AC-0068-01,CL-0068,Fictional Mosaic Foods 0068 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,true,SYN-REF-0068-01
+AC-0068-02,CL-0068,Fictional Mosaic Foods 0068 Corporation Synthetic USD Account,Fictional Cebu City Branch,USD,true,SYN-REF-0068-02
+AC-0069-01,CL-0069,Fictional Azure Foods 0069 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,true,SYN-REF-0069-01
+AC-0069-02,CL-0069,Fictional Azure Foods 0069 Pte. Ltd. Synthetic USD Account,Fictional Singapore Branch,USD,true,SYN-REF-0069-02
+AC-0069-03,CL-0069,Fictional Azure Foods 0069 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,false,SYN-REF-0069-03
+AC-0070-01,CL-0070,Fictional Azure Robotics 0070 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0070-01
+AC-0070-02,CL-0070,Fictional Azure Robotics 0070 Perseroan Terbatas Synthetic USD Account,Fictional Surabaya Branch,USD,true,SYN-REF-0070-02
+AC-0071-01,CL-0071,Fictional Sakura Logistics 0071 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0071-01
+AC-0072-01,CL-0072,Fictional Nimbus Trading 0072 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,true,SYN-REF-0072-01
+AC-0072-02,CL-0072,Fictional Nimbus Trading 0072 Pte. Ltd. Synthetic USD Account,Fictional Singapore Branch,USD,true,SYN-REF-0072-02
+AC-0073-01,CL-0073,Fictional Azure Textiles 0073 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,true,SYN-REF-0073-01
+AC-0073-02,CL-0073,Fictional Azure Textiles 0073 Corporation Synthetic USD Account,Fictional Cebu City Branch,USD,true,SYN-REF-0073-02
+AC-0073-03,CL-0073,Fictional Azure Textiles 0073 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,false,SYN-REF-0073-03
+AC-0074-01,CL-0074,Fictional Lumen Logistics 0074 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0074-01
+AC-0075-01,CL-0075,Fictional Mosaic Components 0075 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0075-01
+AC-0076-01,CL-0076,Fictional Verdant Components 0076 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0076-01
+AC-0076-02,CL-0076,Fictional Verdant Components 0076 Company Limited Synthetic USD Account,Fictional Chiang Mai Branch,USD,true,SYN-REF-0076-02
+AC-0076-03,CL-0076,Fictional Verdant Components 0076 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,false,SYN-REF-0076-03
+AC-0077-01,CL-0077,Fictional Azure Textiles 0077 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0077-01
+AC-0077-02,CL-0077,Fictional Azure Textiles 0077 Sdn. Bhd. Synthetic USD Account,Fictional Johor Bahru Branch,USD,true,SYN-REF-0077-02
+AC-0078-01,CL-0078,Fictional Mosaic Trading 0078 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0078-01
+AC-0078-02,CL-0078,Fictional Mosaic Trading 0078 Company Limited Synthetic USD Account,Fictional Chiang Mai Branch,USD,true,SYN-REF-0078-02
+AC-0079-01,CL-0079,Fictional Mosaic Foods 0079 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0079-01
+AC-0079-02,CL-0079,Fictional Mosaic Foods 0079 Limited Synthetic USD Account,Fictional Wellington Branch,USD,true,SYN-REF-0079-02
+AC-0079-03,CL-0079,Fictional Mosaic Foods 0079 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,false,SYN-REF-0079-03
+AC-0080-01,CL-0080,Fictional Sakura Trading 0080 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0080-01
+AC-0080-02,CL-0080,Fictional Sakura Trading 0080 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0080-02
+AC-0080-03,CL-0080,Fictional Sakura Trading 0080 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,false,SYN-REF-0080-03
+AC-0081-01,CL-0081,Fictional Tidal Robotics 0081 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,true,SYN-REF-0081-01
+AC-0081-02,CL-0081,Fictional Tidal Robotics 0081 Corporation Synthetic USD Account,Fictional Cebu City Branch,USD,true,SYN-REF-0081-02
+AC-0082-01,CL-0082,Fictional Nimbus Foods 0082 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0082-01
+AC-0082-02,CL-0082,Fictional Nimbus Foods 0082 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0082-02
+AC-0083-01,CL-0083,Fictional Verdant Textiles 0083 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0083-01
+AC-0083-02,CL-0083,Fictional Verdant Textiles 0083 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0083-02
+AC-0083-03,CL-0083,Fictional Verdant Textiles 0083 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,false,SYN-REF-0083-03
+AC-0084-01,CL-0084,Fictional Tidal Textiles 0084 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0084-01
+AC-0084-02,CL-0084,Fictional Tidal Textiles 0084 Kabushiki Kaisha Synthetic USD Account,Fictional Yokohama Branch,USD,true,SYN-REF-0084-02
+AC-0085-01,CL-0085,Fictional Lumen Trading 0085 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0085-01
+AC-0087-01,CL-0087,Fictional Tidal Packaging 0087 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0087-01
+AC-0087-02,CL-0087,Fictional Tidal Packaging 0087 Sdn. Bhd. Synthetic USD Account,Fictional Johor Bahru Branch,USD,true,SYN-REF-0087-02
+AC-0092-01,CL-0092,Fictional Nimbus Logistics 0092 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0092-01
+AC-0092-02,CL-0092,Fictional Nimbus Logistics 0092 Limited Synthetic USD Account,Fictional Wellington Branch,USD,true,SYN-REF-0092-02
+AC-0092-03,CL-0092,Fictional Nimbus Logistics 0092 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,false,SYN-REF-0092-03
+AC-0094-01,CL-0094,Fictional Azure Packaging 0094 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0094-01
+AC-0094-02,CL-0094,Fictional Azure Packaging 0094 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0094-02
+AC-0097-01,CL-0097,Fictional Mosaic Components 0097 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0097-01
+AC-0097-02,CL-0097,Fictional Mosaic Components 0097 Limited Synthetic USD Account,Fictional Wellington Branch,USD,true,SYN-REF-0097-02
+AC-0097-03,CL-0097,Fictional Mosaic Components 0097 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,false,SYN-REF-0097-03
+AC-0098-01,CL-0098,Fictional Verdant Foods 0098 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0098-01
+AC-0098-02,CL-0098,Fictional Verdant Foods 0098 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0098-02
+AC-0099-01,CL-0099,Fictional Sakura Trading 0099 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,true,SYN-REF-0099-01
+AC-0100-01,CL-0100,Fictional Azure Logistics 0100 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,true,SYN-REF-0100-01
+AC-0101-01,CL-0101,Fictional Lumen Textiles 0101 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0101-01
+AC-0101-02,CL-0101,Fictional Lumen Textiles 0101 Sdn. Bhd. Synthetic USD Account,Fictional Johor Bahru Branch,USD,true,SYN-REF-0101-02
+AC-0102-01,CL-0102,Fictional Cedar Foods 0102 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0102-01
+AC-0102-02,CL-0102,Fictional Cedar Foods 0102 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0102-02
+AC-0103-01,CL-0103,Fictional Mosaic Foods 0103 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0103-01
+AC-0103-02,CL-0103,Fictional Mosaic Foods 0103 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0103-02
+AC-0103-03,CL-0103,Fictional Mosaic Foods 0103 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,false,SYN-REF-0103-03
+AC-0104-01,CL-0104,Fictional Sakura Trading 0104 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0104-01
+AC-0104-02,CL-0104,Fictional Sakura Trading 0104 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0104-02
+AC-0105-01,CL-0105,Fictional Nimbus Trading 0105 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0105-01
+AC-0105-02,CL-0105,Fictional Nimbus Trading 0105 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0105-02
+AC-0106-01,CL-0106,Fictional Tidal Logistics 0106 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0106-01
+AC-0107-01,CL-0107,Fictional Sakura Trading 0107 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0107-01
+AC-0108-01,CL-0108,Fictional Lumen Robotics 0108 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0108-01
+AC-0109-01,CL-0109,Fictional Lumen Trading 0109 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0109-01
+AC-0111-01,CL-0111,Fictional Tidal Packaging 0111 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0111-01
+AC-0111-02,CL-0111,Fictional Tidal Packaging 0111 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0111-02
+AC-0111-03,CL-0111,Fictional Tidal Packaging 0111 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,false,SYN-REF-0111-03
+AC-0112-01,CL-0112,Fictional Azure Foods 0112 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0112-01
+AC-0112-02,CL-0112,Fictional Azure Foods 0112 Kabushiki Kaisha Synthetic USD Account,Fictional Yokohama Branch,USD,true,SYN-REF-0112-02
+AC-0112-03,CL-0112,Fictional Azure Foods 0112 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,false,SYN-REF-0112-03
+AC-0113-01,CL-0113,Fictional Tidal Robotics 0113 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,true,SYN-REF-0113-01
+AC-0113-02,CL-0113,Fictional Tidal Robotics 0113 Corporation Synthetic USD Account,Fictional Cebu City Branch,USD,true,SYN-REF-0113-02
+AC-0113-03,CL-0113,Fictional Tidal Robotics 0113 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,false,SYN-REF-0113-03
+AC-0114-01,CL-0114,Fictional Verdant Logistics 0114 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0114-01
+AC-0114-02,CL-0114,Fictional Verdant Logistics 0114 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0114-02
+AC-0116-01,CL-0116,Fictional Sakura Components 0116 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0116-01
+AC-0118-01,CL-0118,Fictional Sakura Textiles 0118 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0118-01
+AC-0119-01,CL-0119,Fictional Azure Trading 0119 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,true,SYN-REF-0119-01
+AC-0119-02,CL-0119,Fictional Azure Trading 0119 Pte. Ltd. Synthetic USD Account,Fictional Singapore Branch,USD,true,SYN-REF-0119-02
+AC-0120-01,CL-0120,Fictional Nimbus Textiles 0120 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0120-01
+AC-0120-02,CL-0120,Fictional Nimbus Textiles 0120 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0120-02
+AC-0120-03,CL-0120,Fictional Nimbus Textiles 0120 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,false,SYN-REF-0120-03
+AC-0121-01,CL-0121,Fictional Lumen Components 0121 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0121-01
+AC-0121-02,CL-0121,Fictional Lumen Components 0121 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0121-02
+AC-0122-01,CL-0122,Fictional Tidal Components 0122 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0122-01
+AC-0122-02,CL-0122,Fictional Tidal Components 0122 Sdn. Bhd. Synthetic USD Account,Fictional Johor Bahru Branch,USD,true,SYN-REF-0122-02
+AC-0122-03,CL-0122,Fictional Tidal Components 0122 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,false,SYN-REF-0122-03
+AC-0123-01,CL-0123,Fictional Lumen Foods 0123 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0123-01
+AC-0123-02,CL-0123,Fictional Lumen Foods 0123 Kabushiki Kaisha Synthetic USD Account,Fictional Yokohama Branch,USD,true,SYN-REF-0123-02
+AC-0123-03,CL-0123,Fictional Lumen Foods 0123 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,false,SYN-REF-0123-03
+AC-0125-01,CL-0125,Fictional Tidal Robotics 0125 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0125-01
+AC-0125-02,CL-0125,Fictional Tidal Robotics 0125 Kabushiki Kaisha Synthetic USD Account,Fictional Yokohama Branch,USD,true,SYN-REF-0125-02
+AC-0125-03,CL-0125,Fictional Tidal Robotics 0125 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,false,SYN-REF-0125-03
+AC-0127-01,CL-0127,Fictional Cedar Packaging 0127 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0127-01
+AC-0127-02,CL-0127,Fictional Cedar Packaging 0127 Limited Synthetic USD Account,Fictional Wellington Branch,USD,true,SYN-REF-0127-02
+AC-0127-03,CL-0127,Fictional Cedar Packaging 0127 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,false,SYN-REF-0127-03
+AC-0128-01,CL-0128,Fictional Lumen Textiles 0128 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,true,SYN-REF-0128-01
+AC-0129-01,CL-0129,Fictional Lumen Logistics 0129 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0129-01
+AC-0129-02,CL-0129,Fictional Lumen Logistics 0129 Sdn. Bhd. Synthetic USD Account,Fictional Johor Bahru Branch,USD,true,SYN-REF-0129-02
+AC-0129-03,CL-0129,Fictional Lumen Logistics 0129 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,false,SYN-REF-0129-03
+AC-0130-01,CL-0130,Fictional Azure Trading 0130 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0130-01
+AC-0130-02,CL-0130,Fictional Azure Trading 0130 Perseroan Terbatas Synthetic USD Account,Fictional Surabaya Branch,USD,true,SYN-REF-0130-02
+AC-0131-01,CL-0131,Fictional Lumen Robotics 0131 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0131-01
+AC-0131-02,CL-0131,Fictional Lumen Robotics 0131 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0131-02
+AC-0132-01,CL-0132,Fictional Tidal Components 0132 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0132-01
+AC-0132-02,CL-0132,Fictional Tidal Components 0132 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0132-02
+AC-0134-01,CL-0134,Fictional Verdant Robotics 0134 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0134-01
+AC-0134-02,CL-0134,Fictional Verdant Robotics 0134 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0134-02
+AC-0134-03,CL-0134,Fictional Verdant Robotics 0134 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,false,SYN-REF-0134-03
+AC-0136-01,CL-0136,Fictional Sakura Robotics 0136 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0136-01
+AC-0136-02,CL-0136,Fictional Sakura Robotics 0136 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0136-02
+AC-0137-01,CL-0137,Fictional Sakura Foods 0137 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0137-01
+AC-0137-02,CL-0137,Fictional Sakura Foods 0137 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0137-02
+AC-0137-03,CL-0137,Fictional Sakura Foods 0137 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,false,SYN-REF-0137-03
+AC-0138-01,CL-0138,Fictional Verdant Trading 0138 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0138-01
+AC-0138-02,CL-0138,Fictional Verdant Trading 0138 Kabushiki Kaisha Synthetic USD Account,Fictional Yokohama Branch,USD,true,SYN-REF-0138-02
+AC-0138-03,CL-0138,Fictional Verdant Trading 0138 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,false,SYN-REF-0138-03
+AC-0139-01,CL-0139,Fictional Lumen Foods 0139 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0139-01
+AC-0140-01,CL-0140,Fictional Azure Foods 0140 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0140-01
+AC-0140-02,CL-0140,Fictional Azure Foods 0140 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0140-02
+AC-0140-03,CL-0140,Fictional Azure Foods 0140 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,false,SYN-REF-0140-03
+AC-0141-01,CL-0141,Fictional Mosaic Textiles 0141 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,true,SYN-REF-0141-01
+AC-0142-01,CL-0142,Fictional Verdant Logistics 0142 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0142-01
+AC-0142-02,CL-0142,Fictional Verdant Logistics 0142 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0142-02
+AC-0142-03,CL-0142,Fictional Verdant Logistics 0142 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,false,SYN-REF-0142-03
+AC-0143-01,CL-0143,Fictional Cedar Trading 0143 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0143-01
+AC-0144-01,CL-0144,Fictional Nimbus Components 0144 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0144-01
+AC-0144-02,CL-0144,Fictional Nimbus Components 0144 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0144-02
+AC-0146-01,CL-0146,Fictional Azure Textiles 0146 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0146-01
+AC-0146-02,CL-0146,Fictional Azure Textiles 0146 Company Limited Synthetic USD Account,Fictional Chiang Mai Branch,USD,true,SYN-REF-0146-02
+AC-0147-01,CL-0147,Fictional Verdant Logistics 0147 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,true,SYN-REF-0147-01
+AC-0147-02,CL-0147,Fictional Verdant Logistics 0147 Corporation Synthetic USD Account,Fictional Cebu City Branch,USD,true,SYN-REF-0147-02
+AC-0147-03,CL-0147,Fictional Verdant Logistics 0147 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,false,SYN-REF-0147-03
+AC-0148-01,CL-0148,Fictional Tidal Logistics 0148 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0148-01
+AC-0151-01,CL-0151,Fictional Verdant Robotics 0151 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0151-01
+AC-0151-02,CL-0151,Fictional Verdant Robotics 0151 Perseroan Terbatas Synthetic USD Account,Fictional Surabaya Branch,USD,true,SYN-REF-0151-02
+AC-0153-01,CL-0153,Fictional Sakura Logistics 0153 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0153-01
+AC-0153-02,CL-0153,Fictional Sakura Logistics 0153 Perseroan Terbatas Synthetic USD Account,Fictional Surabaya Branch,USD,true,SYN-REF-0153-02
+AC-0154-01,CL-0154,Fictional Lumen Trading 0154 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,true,SYN-REF-0154-01
+AC-0154-02,CL-0154,Fictional Lumen Trading 0154 Corporation Synthetic USD Account,Fictional Cebu City Branch,USD,true,SYN-REF-0154-02
+AC-0155-01,CL-0155,Fictional Azure Robotics 0155 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0155-01
+AC-0155-02,CL-0155,Fictional Azure Robotics 0155 Sdn. Bhd. Synthetic USD Account,Fictional Johor Bahru Branch,USD,true,SYN-REF-0155-02
+AC-0157-01,CL-0157,Fictional Mosaic Robotics 0157 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0157-01
+AC-0157-02,CL-0157,Fictional Mosaic Robotics 0157 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0157-02
+AC-0157-03,CL-0157,Fictional Mosaic Robotics 0157 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,false,SYN-REF-0157-03
+AC-0158-01,CL-0158,Fictional Azure Robotics 0158 Corporation Synthetic PHP Account,Fictional Cebu City Branch,PHP,true,SYN-REF-0158-01
+AC-0159-01,CL-0159,Fictional Nimbus Trading 0159 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0159-01
+AC-0159-02,CL-0159,Fictional Nimbus Trading 0159 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0159-02
+AC-0160-01,CL-0160,Fictional Azure Foods 0160 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0160-01
+AC-0162-01,CL-0162,Fictional Nimbus Trading 0162 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0162-01
+AC-0162-02,CL-0162,Fictional Nimbus Trading 0162 Company Limited Synthetic USD Account,Fictional Chiang Mai Branch,USD,true,SYN-REF-0162-02
+AC-0162-03,CL-0162,Fictional Nimbus Trading 0162 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,false,SYN-REF-0162-03
+AC-0163-01,CL-0163,Fictional Cedar Textiles 0163 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0163-01
+AC-0165-01,CL-0165,Fictional Verdant Textiles 0165 Jusik Hoesa Synthetic KRW Account,Fictional Busan Branch,KRW,true,SYN-REF-0165-01
+AC-0165-02,CL-0165,Fictional Verdant Textiles 0165 Jusik Hoesa Synthetic USD Account,Fictional Busan Branch,USD,true,SYN-REF-0165-02
+AC-0166-01,CL-0166,Fictional Lumen Robotics 0166 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0166-01
+AC-0166-02,CL-0166,Fictional Lumen Robotics 0166 Kabushiki Kaisha Synthetic USD Account,Fictional Yokohama Branch,USD,true,SYN-REF-0166-02
+AC-0167-01,CL-0167,Fictional Sakura Trading 0167 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0167-01
+AC-0168-01,CL-0168,Fictional Sakura Logistics 0168 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,true,SYN-REF-0168-01
+AC-0168-02,CL-0168,Fictional Sakura Logistics 0168 Limited Synthetic USD Account,Fictional Kowloon Branch,USD,true,SYN-REF-0168-02
+AC-0168-03,CL-0168,Fictional Sakura Logistics 0168 Limited Synthetic HKD Account,Fictional Kowloon Branch,HKD,false,SYN-REF-0168-03
+AC-0169-01,CL-0169,Fictional Nimbus Packaging 0169 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0169-01
+AC-0169-02,CL-0169,Fictional Nimbus Packaging 0169 Kabushiki Kaisha Synthetic USD Account,Fictional Yokohama Branch,USD,true,SYN-REF-0169-02
+AC-0169-03,CL-0169,Fictional Nimbus Packaging 0169 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,false,SYN-REF-0169-03
+AC-0171-01,CL-0171,Fictional Nimbus Logistics 0171 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0171-01
+AC-0171-02,CL-0171,Fictional Nimbus Logistics 0171 Limited Synthetic USD Account,Fictional Wellington Branch,USD,true,SYN-REF-0171-02
+AC-0171-03,CL-0171,Fictional Nimbus Logistics 0171 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,false,SYN-REF-0171-03
+AC-0172-01,CL-0172,Fictional Verdant Components 0172 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0172-01
+AC-0172-02,CL-0172,Fictional Verdant Components 0172 Kabushiki Kaisha Synthetic USD Account,Fictional Yokohama Branch,USD,true,SYN-REF-0172-02
+AC-0172-03,CL-0172,Fictional Verdant Components 0172 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,false,SYN-REF-0172-03
+AC-0173-01,CL-0173,Fictional Azure Components 0173 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0173-01
+AC-0173-02,CL-0173,Fictional Azure Components 0173 Perseroan Terbatas Synthetic USD Account,Fictional Surabaya Branch,USD,true,SYN-REF-0173-02
+AC-0173-03,CL-0173,Fictional Azure Components 0173 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,false,SYN-REF-0173-03
+AC-0174-01,CL-0174,Fictional Nimbus Components 0174 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0174-01
+AC-0174-02,CL-0174,Fictional Nimbus Components 0174 Limited Synthetic USD Account,Fictional Wellington Branch,USD,true,SYN-REF-0174-02
+AC-0176-01,CL-0176,Fictional Tidal Textiles 0176 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0176-01
+AC-0179-01,CL-0179,Fictional Lumen Logistics 0179 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0179-01
+AC-0179-02,CL-0179,Fictional Lumen Logistics 0179 Perseroan Terbatas Synthetic USD Account,Fictional Surabaya Branch,USD,true,SYN-REF-0179-02
+AC-0179-03,CL-0179,Fictional Lumen Logistics 0179 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,false,SYN-REF-0179-03
+AC-0180-01,CL-0180,Fictional Cedar Logistics 0180 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0180-01
+AC-0180-02,CL-0180,Fictional Cedar Logistics 0180 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0180-02
+AC-0182-01,CL-0182,Fictional Lumen Textiles 0182 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,true,SYN-REF-0182-01
+AC-0183-01,CL-0183,Fictional Verdant Logistics 0183 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0183-01
+AC-0184-01,CL-0184,Fictional Azure Packaging 0184 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0184-01
+AC-0186-01,CL-0186,Fictional Tidal Textiles 0186 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0186-01
+AC-0186-02,CL-0186,Fictional Tidal Textiles 0186 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0186-02
+AC-0187-01,CL-0187,Fictional Lumen Textiles 0187 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0187-01
+AC-0187-02,CL-0187,Fictional Lumen Textiles 0187 Kabushiki Kaisha Synthetic USD Account,Fictional Yokohama Branch,USD,true,SYN-REF-0187-02
+AC-0188-01,CL-0188,Fictional Verdant Logistics 0188 Sdn. Bhd. Synthetic MYR Account,Fictional Johor Bahru Branch,MYR,true,SYN-REF-0188-01
+AC-0188-02,CL-0188,Fictional Verdant Logistics 0188 Sdn. Bhd. Synthetic USD Account,Fictional Johor Bahru Branch,USD,true,SYN-REF-0188-02
+AC-0189-01,CL-0189,Fictional Tidal Logistics 0189 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0189-01
+AC-0190-01,CL-0190,Fictional Cedar Packaging 0190 Kabushiki Kaisha Synthetic JPY Account,Fictional Yokohama Branch,JPY,true,SYN-REF-0190-01
+AC-0190-02,CL-0190,Fictional Cedar Packaging 0190 Kabushiki Kaisha Synthetic USD Account,Fictional Yokohama Branch,USD,true,SYN-REF-0190-02
+AC-0192-01,CL-0192,Fictional Lumen Textiles 0192 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0192-01
+AC-0193-01,CL-0193,Fictional Sakura Logistics 0193 Limited Synthetic NZD Account,Fictional Wellington Branch,NZD,true,SYN-REF-0193-01
+AC-0194-01,CL-0194,Fictional Azure Textiles 0194 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,true,SYN-REF-0194-01
+AC-0194-02,CL-0194,Fictional Azure Textiles 0194 Pte. Ltd. Synthetic USD Account,Fictional Singapore Branch,USD,true,SYN-REF-0194-02
+AC-0194-03,CL-0194,Fictional Azure Textiles 0194 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,false,SYN-REF-0194-03
+AC-0195-01,CL-0195,Fictional Lumen Packaging 0195 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,true,SYN-REF-0195-01
+AC-0195-02,CL-0195,Fictional Lumen Packaging 0195 Perseroan Terbatas Synthetic USD Account,Fictional Surabaya Branch,USD,true,SYN-REF-0195-02
+AC-0195-03,CL-0195,Fictional Lumen Packaging 0195 Perseroan Terbatas Synthetic IDR Account,Fictional Surabaya Branch,IDR,false,SYN-REF-0195-03
+AC-0196-01,CL-0196,Fictional Lumen Robotics 0196 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0196-01
+AC-0196-02,CL-0196,Fictional Lumen Robotics 0196 Company Limited Synthetic USD Account,Fictional Chiang Mai Branch,USD,true,SYN-REF-0196-02
+AC-0197-01,CL-0197,Fictional Nimbus Trading 0197 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,true,SYN-REF-0197-01
+AC-0197-02,CL-0197,Fictional Nimbus Trading 0197 Company Limited Synthetic USD Account,Fictional Chiang Mai Branch,USD,true,SYN-REF-0197-02
+AC-0197-03,CL-0197,Fictional Nimbus Trading 0197 Company Limited Synthetic THB Account,Fictional Chiang Mai Branch,THB,false,SYN-REF-0197-03
+AC-0198-01,CL-0198,Fictional Cedar Trading 0198 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0198-01
+AC-0198-02,CL-0198,Fictional Cedar Trading 0198 Pty Ltd Synthetic USD Account,Fictional Melbourne Branch,USD,true,SYN-REF-0198-02
+AC-0198-03,CL-0198,Fictional Cedar Trading 0198 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,false,SYN-REF-0198-03
+AC-0199-01,CL-0199,Fictional Verdant Logistics 0199 Pty Ltd Synthetic AUD Account,Fictional Melbourne Branch,AUD,true,SYN-REF-0199-01
+AC-0200-01,CL-0200,Fictional Tidal Foods 0200 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,true,SYN-REF-0200-01
+AC-0200-02,CL-0200,Fictional Tidal Foods 0200 Pte. Ltd. Synthetic USD Account,Fictional Singapore Branch,USD,true,SYN-REF-0200-02
+AC-0200-03,CL-0200,Fictional Tidal Foods 0200 Pte. Ltd. Synthetic SGD Account,Fictional Singapore Branch,SGD,false,SYN-REF-0200-03
+AC-0015-99,CL-0015,Fictional Tidal Components 0015 Limited Synthetic Conflicting Account,Fictional APAC Branch,JPY,true,SYN-REF-CONFLICT-0015

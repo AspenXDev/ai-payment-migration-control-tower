@@ -202,6 +202,29 @@ Canonical migration data model
 
 The MVP does **not** require an autonomous LLM service or production API integration.
 
+## Generate the canonical synthetic dataset
+
+The implementation uses only the Python standard library at runtime. The
+default command writes 16 normalized CSV tables for 200 fictional cases,
+selected educational XML artefacts, and a clearly separated test-only anomaly
+manifest:
+
+```bash
+python -m src.generate_data --seed 20260829 --clients 200
+```
+
+Run the verification suite with:
+
+```bash
+python -m pip install -r requirements.txt
+pytest
+```
+
+The canonical grains and relationships are documented in
+[`docs/data_dictionary.md`](docs/data_dictionary.md). Controlled anomaly
+injection is a separate step after clean base-data generation, and operational
+readiness derivation does not read the anomaly manifest.
+
 ## Proposed repository structure
 
 ```text

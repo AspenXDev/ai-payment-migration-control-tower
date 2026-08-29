@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="urn:synthetic:payment:migration">
+  <Synthetic>true</Synthetic>
+  <MessageId>MSG-0120</MessageId>
+  <CaseId>MC-0120</CaseId>
+  <PaymentStatus>ACCEPTED</PaymentStatus>
+</Document>
