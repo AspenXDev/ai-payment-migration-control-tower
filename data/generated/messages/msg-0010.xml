@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="urn:synthetic:payment:migration">
+  <Synthetic>true</Synthetic>
+  <MessageId>MSG-0010</MessageId>
+  <PaymentStatus>REJECTED

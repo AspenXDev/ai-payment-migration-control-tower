@@ -1,0 +1,6 @@
+issue_id,case_id,claim,claim_type,confidence,recommended_action,human_decision_required,status
+ISSUE-0040,MC-0040,A fictional coordination item requires human review.,COORDINATION,MEDIUM,Confirm the next synthetic coordination checkpoint.,true,OPEN
+ISSUE-0080,MC-0080,A fictional coordination item requires human review.,COORDINATION,MEDIUM,Confirm the next synthetic coordination checkpoint.,true,OPEN
+ISSUE-0120,MC-0120,A fictional coordination item requires human review.,COORDINATION,MEDIUM,Confirm the next synthetic coordination checkpoint.,true,OPEN
+ISSUE-0160,MC-0160,A fictional coordination item requires human review.,COORDINATION,MEDIUM,Confirm the next synthetic coordination checkpoint.,true,OPEN
+ISSUE-0200,MC-0200,A fictional coordination item requires human review.,COORDINATION,MEDIUM,Confirm the next synthetic coordination checkpoint.,true,OPEN

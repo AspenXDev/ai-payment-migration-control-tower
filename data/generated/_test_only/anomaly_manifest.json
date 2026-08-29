@@ -1,0 +1,205 @@
+{
+  "anomalies": [
+    {
+      "affected_entity": {
+        "entity_id": "MC-0001",
+        "entity_type": "MigrationCase"
+      },
+      "anomaly_id": "ANOM-001",
+      "anomaly_type": "missing_treasury_owner",
+      "description": "A migration case has no treasury owner.",
+      "expected_severity": "HIGH",
+      "expected_validator": "OWN-001"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "MC-0002",
+        "entity_type": "MigrationCase"
+      },
+      "anomaly_id": "ANOM-002",
+      "anomaly_type": "missing_it_owner",
+      "description": "A migration case has no IT owner.",
+      "expected_severity": "HIGH",
+      "expected_validator": "OWN-002"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "MS-0003-UAT",
+        "entity_type": "Milestone"
+      },
+      "anomaly_id": "ANOM-003",
+      "anomaly_type": "overdue_milestone",
+      "description": "An incomplete milestone is planned before the as-of date.",
+      "expected_severity": "HIGH",
+      "expected_validator": "DATE-001"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "MC-0004",
+        "entity_type": "MigrationCase"
+      },
+      "anomaly_id": "ANOM-004",
+      "anomaly_type": "failed_mandatory_uat_marked_ready",
+      "description": "A reported-ready case has failed mandatory UAT.",
+      "details": {
+        "related_test_id": "TEST-0004-UAT"
+      },
+      "expected_severity": "CRITICAL",
+      "expected_validator": "READY-001"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "MC-0005",
+        "entity_type": "MigrationCase"
+      },
+      "anomaly_id": "ANOM-005",
+      "anomaly_type": "missing_mandatory_documentation_marked_ready",
+      "description": "A reported-ready case is missing required documentation.",
+      "details": {
+        "related_document_item_id": "DOC-0005-01"
+      },
+      "expected_severity": "CRITICAL",
+      "expected_validator": "READY-002"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "MC-0006",
+        "entity_type": "MigrationCase"
+      },
+      "anomaly_id": "ANOM-006",
+      "anomaly_type": "unresolved_blocker_marked_ready",
+      "description": "A reported-ready case retains an open blocker.",
+      "details": {
+        "related_dependency_id": "DEP-0006-ANOM"
+      },
+      "expected_severity": "CRITICAL",
+      "expected_validator": "READY-003"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "DEP-0007-ANOM",
+        "entity_type": "Dependency"
+      },
+      "anomaly_id": "ANOM-007",
+      "anomaly_type": "closed_dependency_with_incomplete_prerequisite",
+      "description": "A dependency is closed while its prerequisite remains incomplete.",
+      "expected_severity": "HIGH",
+      "expected_validator": "DEP-001"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "MC-0008",
+        "entity_type": "MigrationCase"
+      },
+      "anomaly_id": "ANOM-008",
+      "anomaly_type": "stale_correspondence_as_sole_readiness_evidence",
+      "description": "Only stale correspondence supports reported readiness.",
+      "details": {
+        "readiness_evidence_id": "EV-0008-CORR"
+      },
+      "expected_severity": "HIGH",
+      "expected_validator": "EVID-001"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "MC-0009",
+        "entity_type": "MigrationCase"
+      },
+      "anomaly_id": "ANOM-009",
+      "anomaly_type": "contradictory_current_correspondence",
+      "description": "Current correspondence asserts incompatible readiness states.",
+      "details": {
+        "correspondence_ids": [
+          "CORR-0009",
+          "CORR-0009-B"
+        ]
+      },
+      "expected_severity": "CRITICAL",
+      "expected_validator": "EVID-002"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "MSG-0010",
+        "entity_type": "MessageArtifact"
+      },
+      "anomaly_id": "ANOM-010",
+      "anomaly_type": "malformed_xml",
+      "description": "A selected synthetic XML message is not well formed.",
+      "expected_severity": "HIGH",
+      "expected_validator": "MSG-001"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "ADDR-0011",
+        "entity_type": "ClientAddress"
+      },
+      "anomaly_id": "ANOM-011",
+      "anomaly_type": "incomplete_postal_address",
+      "description": "A postal address omits required locality fields.",
+      "expected_severity": "MEDIUM",
+      "expected_validator": "ADDR-001"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "ADDR-0012",
+        "entity_type": "ClientAddress"
+      },
+      "anomaly_id": "ANOM-012",
+      "anomaly_type": "structured_unstructured_address_conflict",
+      "description": "Structured and unstructured address countries conflict.",
+      "expected_severity": "HIGH",
+      "expected_validator": "ADDR-002"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "PP-0013-01",
+        "entity_type": "PaymentProfile"
+      },
+      "anomaly_id": "ANOM-013",
+      "anomaly_type": "unsupported_currency_payment_profile_combination",
+      "description": "A payment-profile currency is outside the fictional market rules.",
+      "expected_severity": "HIGH",
+      "expected_validator": "PROFILE-001"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "MC-0014",
+        "entity_type": "MigrationCase"
+      },
+      "anomaly_id": "ANOM-014",
+      "anomaly_type": "message_status_contradicts_case_status",
+      "description": "A rejected message contradicts a reported-ready case.",
+      "details": {
+        "related_message_id": "MSG-0014"
+      },
+      "expected_severity": "CRITICAL",
+      "expected_validator": "MSG-002"
+    },
+    {
+      "affected_entity": {
+        "entity_id": "AC-0015-01",
+        "entity_type": "Account"
+      },
+      "anomaly_id": "ANOM-015",
+      "anomaly_type": "duplicate_or_conflicting_account_reference_data",
+      "description": "One account reference is assigned conflicting currencies.",
+      "details": {
+        "account_reference": "SYN-REF-CONFLICT-0015",
+        "conflicting_entity_ids": [
+          "AC-0015-01",
+          "AC-0015-99"
+        ]
+      },
+      "expected_severity": "HIGH",
+      "expected_validator": "ACCOUNT-001"
+    }
+  ],
+  "as_of_date": "2026-08-28",
+  "classification": "SYNTHETIC_PUBLIC_TEST_ONLY",
+  "client_count": 200,
+  "data_model_version": "1.0.0",
+  "generator_version": "1.0.0",
+  "purpose": "Expected injected defects for automated tests only; operational readiness logic must not read this file.",
+  "seed": 20260829,
+  "test_only": true
+}

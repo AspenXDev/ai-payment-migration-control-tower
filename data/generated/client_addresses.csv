@@ -1,0 +1,201 @@
+address_id,client_id,address_type,address_line_1,city,postal_code,country_code,unstructured_address,unstructured_country_code
+ADDR-0001,CL-0001,REGISTERED,101 Fictional Commerce Avenue,Wellington,SYN00001,NZ,"101 Fictional Commerce Avenue, Wellington, SYN00001, NZ",NZ
+ADDR-0002,CL-0002,REGISTERED,102 Fictional Commerce Avenue,Wellington,SYN00002,NZ,"102 Fictional Commerce Avenue, Wellington, SYN00002, NZ",NZ
+ADDR-0003,CL-0003,REGISTERED,103 Fictional Commerce Avenue,Johor Bahru,SYN00003,MY,"103 Fictional Commerce Avenue, Johor Bahru, SYN00003, MY",MY
+ADDR-0004,CL-0004,REGISTERED,104 Fictional Commerce Avenue,Kowloon,SYN00004,HK,"104 Fictional Commerce Avenue, Kowloon, SYN00004, HK",HK
+ADDR-0005,CL-0005,REGISTERED,105 Fictional Commerce Avenue,Cebu City,SYN00005,PH,"105 Fictional Commerce Avenue, Cebu City, SYN00005, PH",PH
+ADDR-0006,CL-0006,REGISTERED,106 Fictional Commerce Avenue,Wellington,SYN00006,NZ,"106 Fictional Commerce Avenue, Wellington, SYN00006, NZ",NZ
+ADDR-0007,CL-0007,REGISTERED,107 Fictional Commerce Avenue,Surabaya,SYN00007,ID,"107 Fictional Commerce Avenue, Surabaya, SYN00007, ID",ID
+ADDR-0008,CL-0008,REGISTERED,108 Fictional Commerce Avenue,Kowloon,SYN00008,HK,"108 Fictional Commerce Avenue, Kowloon, SYN00008, HK",HK
+ADDR-0009,CL-0009,REGISTERED,109 Fictional Commerce Avenue,Busan,SYN00009,KR,"109 Fictional Commerce Avenue, Busan, SYN00009, KR",KR
+ADDR-0010,CL-0010,REGISTERED,110 Fictional Commerce Avenue,Wellington,SYN00010,NZ,"110 Fictional Commerce Avenue, Wellington, SYN00010, NZ",NZ
+ADDR-0011,CL-0011,REGISTERED,111 Fictional Commerce Avenue,,,ID,"111 Fictional Commerce Avenue, Surabaya, SYN00011, ID",ID
+ADDR-0012,CL-0012,REGISTERED,112 Fictional Commerce Avenue,Melbourne,SYN00012,AU,"112 Fictional Commerce Avenue, Melbourne, SYN00012, JP",JP
+ADDR-0013,CL-0013,REGISTERED,113 Fictional Commerce Avenue,Kowloon,SYN00013,HK,"113 Fictional Commerce Avenue, Kowloon, SYN00013, HK",HK
+ADDR-0014,CL-0014,REGISTERED,114 Fictional Commerce Avenue,Busan,SYN00014,KR,"114 Fictional Commerce Avenue, Busan, SYN00014, KR",KR
+ADDR-0015,CL-0015,REGISTERED,115 Fictional Commerce Avenue,Wellington,SYN00015,NZ,"115 Fictional Commerce Avenue, Wellington, SYN00015, NZ",NZ
+ADDR-0016,CL-0016,REGISTERED,116 Fictional Commerce Avenue,Melbourne,SYN00016,AU,"116 Fictional Commerce Avenue, Melbourne, SYN00016, AU",AU
+ADDR-0017,CL-0017,REGISTERED,117 Fictional Commerce Avenue,Busan,SYN00017,KR,"117 Fictional Commerce Avenue, Busan, SYN00017, KR",KR
+ADDR-0018,CL-0018,REGISTERED,118 Fictional Commerce Avenue,Surabaya,SYN00018,ID,"118 Fictional Commerce Avenue, Surabaya, SYN00018, ID",ID
+ADDR-0019,CL-0019,REGISTERED,119 Fictional Commerce Avenue,Wellington,SYN00019,NZ,"119 Fictional Commerce Avenue, Wellington, SYN00019, NZ",NZ
+ADDR-0020,CL-0020,REGISTERED,120 Fictional Commerce Avenue,Singapore,SYN00020,SG,"120 Fictional Commerce Avenue, Singapore, SYN00020, SG",SG
+ADDR-0021,CL-0021,REGISTERED,121 Fictional Commerce Avenue,Johor Bahru,SYN00021,MY,"121 Fictional Commerce Avenue, Johor Bahru, SYN00021, MY",MY
+ADDR-0022,CL-0022,REGISTERED,122 Fictional Commerce Avenue,Busan,SYN00022,KR,"122 Fictional Commerce Avenue, Busan, SYN00022, KR",KR
+ADDR-0023,CL-0023,REGISTERED,123 Fictional Commerce Avenue,Melbourne,SYN00023,AU,"123 Fictional Commerce Avenue, Melbourne, SYN00023, AU",AU
+ADDR-0024,CL-0024,REGISTERED,124 Fictional Commerce Avenue,Melbourne,SYN00024,AU,"124 Fictional Commerce Avenue, Melbourne, SYN00024, AU",AU
+ADDR-0025,CL-0025,REGISTERED,125 Fictional Commerce Avenue,Surabaya,SYN00025,ID,"125 Fictional Commerce Avenue, Surabaya, SYN00025, ID",ID
+ADDR-0026,CL-0026,REGISTERED,126 Fictional Commerce Avenue,Yokohama,SYN00026,JP,"126 Fictional Commerce Avenue, Yokohama, SYN00026, JP",JP
+ADDR-0027,CL-0027,REGISTERED,127 Fictional Commerce Avenue,Johor Bahru,SYN00027,MY,"127 Fictional Commerce Avenue, Johor Bahru, SYN00027, MY",MY
+ADDR-0028,CL-0028,REGISTERED,128 Fictional Commerce Avenue,Busan,SYN00028,KR,"128 Fictional Commerce Avenue, Busan, SYN00028, KR",KR
+ADDR-0029,CL-0029,REGISTERED,129 Fictional Commerce Avenue,Wellington,SYN00029,NZ,"129 Fictional Commerce Avenue, Wellington, SYN00029, NZ",NZ
+ADDR-0030,CL-0030,REGISTERED,130 Fictional Commerce Avenue,Wellington,SYN00030,NZ,"130 Fictional Commerce Avenue, Wellington, SYN00030, NZ",NZ
+ADDR-0031,CL-0031,REGISTERED,131 Fictional Commerce Avenue,Yokohama,SYN00031,JP,"131 Fictional Commerce Avenue, Yokohama, SYN00031, JP",JP
+ADDR-0032,CL-0032,REGISTERED,132 Fictional Commerce Avenue,Johor Bahru,SYN00032,MY,"132 Fictional Commerce Avenue, Johor Bahru, SYN00032, MY",MY
+ADDR-0033,CL-0033,REGISTERED,133 Fictional Commerce Avenue,Chiang Mai,SYN00033,TH,"133 Fictional Commerce Avenue, Chiang Mai, SYN00033, TH",TH
+ADDR-0034,CL-0034,REGISTERED,134 Fictional Commerce Avenue,Wellington,SYN00034,NZ,"134 Fictional Commerce Avenue, Wellington, SYN00034, NZ",NZ
+ADDR-0035,CL-0035,REGISTERED,135 Fictional Commerce Avenue,Busan,SYN00035,KR,"135 Fictional Commerce Avenue, Busan, SYN00035, KR",KR
+ADDR-0036,CL-0036,REGISTERED,136 Fictional Commerce Avenue,Wellington,SYN00036,NZ,"136 Fictional Commerce Avenue, Wellington, SYN00036, NZ",NZ
+ADDR-0037,CL-0037,REGISTERED,137 Fictional Commerce Avenue,Melbourne,SYN00037,AU,"137 Fictional Commerce Avenue, Melbourne, SYN00037, AU",AU
+ADDR-0038,CL-0038,REGISTERED,138 Fictional Commerce Avenue,Melbourne,SYN00038,AU,"138 Fictional Commerce Avenue, Melbourne, SYN00038, AU",AU
+ADDR-0039,CL-0039,REGISTERED,139 Fictional Commerce Avenue,Busan,SYN00039,KR,"139 Fictional Commerce Avenue, Busan, SYN00039, KR",KR
+ADDR-0040,CL-0040,REGISTERED,140 Fictional Commerce Avenue,Wellington,SYN00040,NZ,"140 Fictional Commerce Avenue, Wellington, SYN00040, NZ",NZ
+ADDR-0041,CL-0041,REGISTERED,141 Fictional Commerce Avenue,Chiang Mai,SYN00041,TH,"141 Fictional Commerce Avenue, Chiang Mai, SYN00041, TH",TH
+ADDR-0042,CL-0042,REGISTERED,142 Fictional Commerce Avenue,Johor Bahru,SYN00042,MY,"142 Fictional Commerce Avenue, Johor Bahru, SYN00042, MY",MY
+ADDR-0043,CL-0043,REGISTERED,143 Fictional Commerce Avenue,Melbourne,SYN00043,AU,"143 Fictional Commerce Avenue, Melbourne, SYN00043, AU",AU
+ADDR-0044,CL-0044,REGISTERED,144 Fictional Commerce Avenue,Wellington,SYN00044,NZ,"144 Fictional Commerce Avenue, Wellington, SYN00044, NZ",NZ
+ADDR-0045,CL-0045,REGISTERED,145 Fictional Commerce Avenue,Surabaya,SYN00045,ID,"145 Fictional Commerce Avenue, Surabaya, SYN00045, ID",ID
+ADDR-0046,CL-0046,REGISTERED,146 Fictional Commerce Avenue,Yokohama,SYN00046,JP,"146 Fictional Commerce Avenue, Yokohama, SYN00046, JP",JP
+ADDR-0047,CL-0047,REGISTERED,147 Fictional Commerce Avenue,Yokohama,SYN00047,JP,"147 Fictional Commerce Avenue, Yokohama, SYN00047, JP",JP
+ADDR-0048,CL-0048,REGISTERED,148 Fictional Commerce Avenue,Kowloon,SYN00048,HK,"148 Fictional Commerce Avenue, Kowloon, SYN00048, HK",HK
+ADDR-0049,CL-0049,REGISTERED,149 Fictional Commerce Avenue,Wellington,SYN00049,NZ,"149 Fictional Commerce Avenue, Wellington, SYN00049, NZ",NZ
+ADDR-0050,CL-0050,REGISTERED,150 Fictional Commerce Avenue,Wellington,SYN00050,NZ,"150 Fictional Commerce Avenue, Wellington, SYN00050, NZ",NZ
+ADDR-0051,CL-0051,REGISTERED,151 Fictional Commerce Avenue,Chiang Mai,SYN00051,TH,"151 Fictional Commerce Avenue, Chiang Mai, SYN00051, TH",TH
+ADDR-0052,CL-0052,REGISTERED,152 Fictional Commerce Avenue,Busan,SYN00052,KR,"152 Fictional Commerce Avenue, Busan, SYN00052, KR",KR
+ADDR-0053,CL-0053,REGISTERED,153 Fictional Commerce Avenue,Yokohama,SYN00053,JP,"153 Fictional Commerce Avenue, Yokohama, SYN00053, JP",JP
+ADDR-0054,CL-0054,REGISTERED,154 Fictional Commerce Avenue,Kowloon,SYN00054,HK,"154 Fictional Commerce Avenue, Kowloon, SYN00054, HK",HK
+ADDR-0055,CL-0055,REGISTERED,155 Fictional Commerce Avenue,Surabaya,SYN00055,ID,"155 Fictional Commerce Avenue, Surabaya, SYN00055, ID",ID
+ADDR-0056,CL-0056,REGISTERED,156 Fictional Commerce Avenue,Surabaya,SYN00056,ID,"156 Fictional Commerce Avenue, Surabaya, SYN00056, ID",ID
+ADDR-0057,CL-0057,REGISTERED,157 Fictional Commerce Avenue,Melbourne,SYN00057,AU,"157 Fictional Commerce Avenue, Melbourne, SYN00057, AU",AU
+ADDR-0058,CL-0058,REGISTERED,158 Fictional Commerce Avenue,Chiang Mai,SYN00058,TH,"158 Fictional Commerce Avenue, Chiang Mai, SYN00058, TH",TH
+ADDR-0059,CL-0059,REGISTERED,159 Fictional Commerce Avenue,Chiang Mai,SYN00059,TH,"159 Fictional Commerce Avenue, Chiang Mai, SYN00059, TH",TH
+ADDR-0060,CL-0060,REGISTERED,160 Fictional Commerce Avenue,Kowloon,SYN00060,HK,"160 Fictional Commerce Avenue, Kowloon, SYN00060, HK",HK
+ADDR-0061,CL-0061,REGISTERED,161 Fictional Commerce Avenue,Cebu City,SYN00061,PH,"161 Fictional Commerce Avenue, Cebu City, SYN00061, PH",PH
+ADDR-0062,CL-0062,REGISTERED,162 Fictional Commerce Avenue,Surabaya,SYN00062,ID,"162 Fictional Commerce Avenue, Surabaya, SYN00062, ID",ID
+ADDR-0063,CL-0063,REGISTERED,163 Fictional Commerce Avenue,Busan,SYN00063,KR,"163 Fictional Commerce Avenue, Busan, SYN00063, KR",KR
+ADDR-0064,CL-0064,REGISTERED,164 Fictional Commerce Avenue,Melbourne,SYN00064,AU,"164 Fictional Commerce Avenue, Melbourne, SYN00064, AU",AU
+ADDR-0065,CL-0065,REGISTERED,165 Fictional Commerce Avenue,Kowloon,SYN00065,HK,"165 Fictional Commerce Avenue, Kowloon, SYN00065, HK",HK
+ADDR-0066,CL-0066,REGISTERED,166 Fictional Commerce Avenue,Kowloon,SYN00066,HK,"166 Fictional Commerce Avenue, Kowloon, SYN00066, HK",HK
+ADDR-0067,CL-0067,REGISTERED,167 Fictional Commerce Avenue,Surabaya,SYN00067,ID,"167 Fictional Commerce Avenue, Surabaya, SYN00067, ID",ID
+ADDR-0068,CL-0068,REGISTERED,168 Fictional Commerce Avenue,Cebu City,SYN00068,PH,"168 Fictional Commerce Avenue, Cebu City, SYN00068, PH",PH
+ADDR-0069,CL-0069,REGISTERED,169 Fictional Commerce Avenue,Singapore,SYN00069,SG,"169 Fictional Commerce Avenue, Singapore, SYN00069, SG",SG
+ADDR-0070,CL-0070,REGISTERED,170 Fictional Commerce Avenue,Surabaya,SYN00070,ID,"170 Fictional Commerce Avenue, Surabaya, SYN00070, ID",ID
+ADDR-0071,CL-0071,REGISTERED,171 Fictional Commerce Avenue,Yokohama,SYN00071,JP,"171 Fictional Commerce Avenue, Yokohama, SYN00071, JP",JP
+ADDR-0072,CL-0072,REGISTERED,172 Fictional Commerce Avenue,Singapore,SYN00072,SG,"172 Fictional Commerce Avenue, Singapore, SYN00072, SG",SG
+ADDR-0073,CL-0073,REGISTERED,173 Fictional Commerce Avenue,Cebu City,SYN00073,PH,"173 Fictional Commerce Avenue, Cebu City, SYN00073, PH",PH
+ADDR-0074,CL-0074,REGISTERED,174 Fictional Commerce Avenue,Surabaya,SYN00074,ID,"174 Fictional Commerce Avenue, Surabaya, SYN00074, ID",ID
+ADDR-0075,CL-0075,REGISTERED,175 Fictional Commerce Avenue,Chiang Mai,SYN00075,TH,"175 Fictional Commerce Avenue, Chiang Mai, SYN00075, TH",TH
+ADDR-0076,CL-0076,REGISTERED,176 Fictional Commerce Avenue,Chiang Mai,SYN00076,TH,"176 Fictional Commerce Avenue, Chiang Mai, SYN00076, TH",TH
+ADDR-0077,CL-0077,REGISTERED,177 Fictional Commerce Avenue,Johor Bahru,SYN00077,MY,"177 Fictional Commerce Avenue, Johor Bahru, SYN00077, MY",MY
+ADDR-0078,CL-0078,REGISTERED,178 Fictional Commerce Avenue,Chiang Mai,SYN00078,TH,"178 Fictional Commerce Avenue, Chiang Mai, SYN00078, TH",TH
+ADDR-0079,CL-0079,REGISTERED,179 Fictional Commerce Avenue,Wellington,SYN00079,NZ,"179 Fictional Commerce Avenue, Wellington, SYN00079, NZ",NZ
+ADDR-0080,CL-0080,REGISTERED,180 Fictional Commerce Avenue,Melbourne,SYN00080,AU,"180 Fictional Commerce Avenue, Melbourne, SYN00080, AU",AU
+ADDR-0081,CL-0081,REGISTERED,181 Fictional Commerce Avenue,Cebu City,SYN00081,PH,"181 Fictional Commerce Avenue, Cebu City, SYN00081, PH",PH
+ADDR-0082,CL-0082,REGISTERED,182 Fictional Commerce Avenue,Kowloon,SYN00082,HK,"182 Fictional Commerce Avenue, Kowloon, SYN00082, HK",HK
+ADDR-0083,CL-0083,REGISTERED,183 Fictional Commerce Avenue,Busan,SYN00083,KR,"183 Fictional Commerce Avenue, Busan, SYN00083, KR",KR
+ADDR-0084,CL-0084,REGISTERED,184 Fictional Commerce Avenue,Yokohama,SYN00084,JP,"184 Fictional Commerce Avenue, Yokohama, SYN00084, JP",JP
+ADDR-0085,CL-0085,REGISTERED,185 Fictional Commerce Avenue,Busan,SYN00085,KR,"185 Fictional Commerce Avenue, Busan, SYN00085, KR",KR
+ADDR-0086,CL-0086,REGISTERED,186 Fictional Commerce Avenue,Johor Bahru,SYN00086,MY,"186 Fictional Commerce Avenue, Johor Bahru, SYN00086, MY",MY
+ADDR-0087,CL-0087,REGISTERED,187 Fictional Commerce Avenue,Johor Bahru,SYN00087,MY,"187 Fictional Commerce Avenue, Johor Bahru, SYN00087, MY",MY
+ADDR-0088,CL-0088,REGISTERED,188 Fictional Commerce Avenue,Melbourne,SYN00088,AU,"188 Fictional Commerce Avenue, Melbourne, SYN00088, AU",AU
+ADDR-0089,CL-0089,REGISTERED,189 Fictional Commerce Avenue,Chiang Mai,SYN00089,TH,"189 Fictional Commerce Avenue, Chiang Mai, SYN00089, TH",TH
+ADDR-0090,CL-0090,REGISTERED,190 Fictional Commerce Avenue,Yokohama,SYN00090,JP,"190 Fictional Commerce Avenue, Yokohama, SYN00090, JP",JP
+ADDR-0091,CL-0091,REGISTERED,191 Fictional Commerce Avenue,Cebu City,SYN00091,PH,"191 Fictional Commerce Avenue, Cebu City, SYN00091, PH",PH
+ADDR-0092,CL-0092,REGISTERED,192 Fictional Commerce Avenue,Wellington,SYN00092,NZ,"192 Fictional Commerce Avenue, Wellington, SYN00092, NZ",NZ
+ADDR-0093,CL-0093,REGISTERED,193 Fictional Commerce Avenue,Singapore,SYN00093,SG,"193 Fictional Commerce Avenue, Singapore, SYN00093, SG",SG
+ADDR-0094,CL-0094,REGISTERED,194 Fictional Commerce Avenue,Kowloon,SYN00094,HK,"194 Fictional Commerce Avenue, Kowloon, SYN00094, HK",HK
+ADDR-0095,CL-0095,REGISTERED,195 Fictional Commerce Avenue,Melbourne,SYN00095,AU,"195 Fictional Commerce Avenue, Melbourne, SYN00095, AU",AU
+ADDR-0096,CL-0096,REGISTERED,196 Fictional Commerce Avenue,Johor Bahru,SYN00096,MY,"196 Fictional Commerce Avenue, Johor Bahru, SYN00096, MY",MY
+ADDR-0097,CL-0097,REGISTERED,197 Fictional Commerce Avenue,Wellington,SYN00097,NZ,"197 Fictional Commerce Avenue, Wellington, SYN00097, NZ",NZ
+ADDR-0098,CL-0098,REGISTERED,198 Fictional Commerce Avenue,Kowloon,SYN00098,HK,"198 Fictional Commerce Avenue, Kowloon, SYN00098, HK",HK
+ADDR-0099,CL-0099,REGISTERED,199 Fictional Commerce Avenue,Singapore,SYN00099,SG,"199 Fictional Commerce Avenue, Singapore, SYN00099, SG",SG
+ADDR-0100,CL-0100,REGISTERED,200 Fictional Commerce Avenue,Singapore,SYN00100,SG,"200 Fictional Commerce Avenue, Singapore, SYN00100, SG",SG
+ADDR-0101,CL-0101,REGISTERED,201 Fictional Commerce Avenue,Johor Bahru,SYN00101,MY,"201 Fictional Commerce Avenue, Johor Bahru, SYN00101, MY",MY
+ADDR-0102,CL-0102,REGISTERED,202 Fictional Commerce Avenue,Melbourne,SYN00102,AU,"202 Fictional Commerce Avenue, Melbourne, SYN00102, AU",AU
+ADDR-0103,CL-0103,REGISTERED,203 Fictional Commerce Avenue,Kowloon,SYN00103,HK,"203 Fictional Commerce Avenue, Kowloon, SYN00103, HK",HK
+ADDR-0104,CL-0104,REGISTERED,204 Fictional Commerce Avenue,Kowloon,SYN00104,HK,"204 Fictional Commerce Avenue, Kowloon, SYN00104, HK",HK
+ADDR-0105,CL-0105,REGISTERED,205 Fictional Commerce Avenue,Kowloon,SYN00105,HK,"205 Fictional Commerce Avenue, Kowloon, SYN00105, HK",HK
+ADDR-0106,CL-0106,REGISTERED,206 Fictional Commerce Avenue,Chiang Mai,SYN00106,TH,"206 Fictional Commerce Avenue, Chiang Mai, SYN00106, TH",TH
+ADDR-0107,CL-0107,REGISTERED,207 Fictional Commerce Avenue,Johor Bahru,SYN00107,MY,"207 Fictional Commerce Avenue, Johor Bahru, SYN00107, MY",MY
+ADDR-0108,CL-0108,REGISTERED,208 Fictional Commerce Avenue,Kowloon,SYN00108,HK,"208 Fictional Commerce Avenue, Kowloon, SYN00108, HK",HK
+ADDR-0109,CL-0109,REGISTERED,209 Fictional Commerce Avenue,Busan,SYN00109,KR,"209 Fictional Commerce Avenue, Busan, SYN00109, KR",KR
+ADDR-0110,CL-0110,REGISTERED,210 Fictional Commerce Avenue,Wellington,SYN00110,NZ,"210 Fictional Commerce Avenue, Wellington, SYN00110, NZ",NZ
+ADDR-0111,CL-0111,REGISTERED,211 Fictional Commerce Avenue,Busan,SYN00111,KR,"211 Fictional Commerce Avenue, Busan, SYN00111, KR",KR
+ADDR-0112,CL-0112,REGISTERED,212 Fictional Commerce Avenue,Yokohama,SYN00112,JP,"212 Fictional Commerce Avenue, Yokohama, SYN00112, JP",JP
+ADDR-0113,CL-0113,REGISTERED,213 Fictional Commerce Avenue,Cebu City,SYN00113,PH,"213 Fictional Commerce Avenue, Cebu City, SYN00113, PH",PH
+ADDR-0114,CL-0114,REGISTERED,214 Fictional Commerce Avenue,Melbourne,SYN00114,AU,"214 Fictional Commerce Avenue, Melbourne, SYN00114, AU",AU
+ADDR-0115,CL-0115,REGISTERED,215 Fictional Commerce Avenue,Cebu City,SYN00115,PH,"215 Fictional Commerce Avenue, Cebu City, SYN00115, PH",PH
+ADDR-0116,CL-0116,REGISTERED,216 Fictional Commerce Avenue,Busan,SYN00116,KR,"216 Fictional Commerce Avenue, Busan, SYN00116, KR",KR
+ADDR-0117,CL-0117,REGISTERED,217 Fictional Commerce Avenue,Melbourne,SYN00117,AU,"217 Fictional Commerce Avenue, Melbourne, SYN00117, AU",AU
+ADDR-0118,CL-0118,REGISTERED,218 Fictional Commerce Avenue,Busan,SYN00118,KR,"218 Fictional Commerce Avenue, Busan, SYN00118, KR",KR
+ADDR-0119,CL-0119,REGISTERED,219 Fictional Commerce Avenue,Singapore,SYN00119,SG,"219 Fictional Commerce Avenue, Singapore, SYN00119, SG",SG
+ADDR-0120,CL-0120,REGISTERED,220 Fictional Commerce Avenue,Busan,SYN00120,KR,"220 Fictional Commerce Avenue, Busan, SYN00120, KR",KR
+ADDR-0121,CL-0121,REGISTERED,221 Fictional Commerce Avenue,Kowloon,SYN00121,HK,"221 Fictional Commerce Avenue, Kowloon, SYN00121, HK",HK
+ADDR-0122,CL-0122,REGISTERED,222 Fictional Commerce Avenue,Johor Bahru,SYN00122,MY,"222 Fictional Commerce Avenue, Johor Bahru, SYN00122, MY",MY
+ADDR-0123,CL-0123,REGISTERED,223 Fictional Commerce Avenue,Yokohama,SYN00123,JP,"223 Fictional Commerce Avenue, Yokohama, SYN00123, JP",JP
+ADDR-0124,CL-0124,REGISTERED,224 Fictional Commerce Avenue,Surabaya,SYN00124,ID,"224 Fictional Commerce Avenue, Surabaya, SYN00124, ID",ID
+ADDR-0125,CL-0125,REGISTERED,225 Fictional Commerce Avenue,Yokohama,SYN00125,JP,"225 Fictional Commerce Avenue, Yokohama, SYN00125, JP",JP
+ADDR-0126,CL-0126,REGISTERED,226 Fictional Commerce Avenue,Cebu City,SYN00126,PH,"226 Fictional Commerce Avenue, Cebu City, SYN00126, PH",PH
+ADDR-0127,CL-0127,REGISTERED,227 Fictional Commerce Avenue,Wellington,SYN00127,NZ,"227 Fictional Commerce Avenue, Wellington, SYN00127, NZ",NZ
+ADDR-0128,CL-0128,REGISTERED,228 Fictional Commerce Avenue,Cebu City,SYN00128,PH,"228 Fictional Commerce Avenue, Cebu City, SYN00128, PH",PH
+ADDR-0129,CL-0129,REGISTERED,229 Fictional Commerce Avenue,Johor Bahru,SYN00129,MY,"229 Fictional Commerce Avenue, Johor Bahru, SYN00129, MY",MY
+ADDR-0130,CL-0130,REGISTERED,230 Fictional Commerce Avenue,Surabaya,SYN00130,ID,"230 Fictional Commerce Avenue, Surabaya, SYN00130, ID",ID
+ADDR-0131,CL-0131,REGISTERED,231 Fictional Commerce Avenue,Melbourne,SYN00131,AU,"231 Fictional Commerce Avenue, Melbourne, SYN00131, AU",AU
+ADDR-0132,CL-0132,REGISTERED,232 Fictional Commerce Avenue,Busan,SYN00132,KR,"232 Fictional Commerce Avenue, Busan, SYN00132, KR",KR
+ADDR-0133,CL-0133,REGISTERED,233 Fictional Commerce Avenue,Chiang Mai,SYN00133,TH,"233 Fictional Commerce Avenue, Chiang Mai, SYN00133, TH",TH
+ADDR-0134,CL-0134,REGISTERED,234 Fictional Commerce Avenue,Melbourne,SYN00134,AU,"234 Fictional Commerce Avenue, Melbourne, SYN00134, AU",AU
+ADDR-0135,CL-0135,REGISTERED,235 Fictional Commerce Avenue,Singapore,SYN00135,SG,"235 Fictional Commerce Avenue, Singapore, SYN00135, SG",SG
+ADDR-0136,CL-0136,REGISTERED,236 Fictional Commerce Avenue,Kowloon,SYN00136,HK,"236 Fictional Commerce Avenue, Kowloon, SYN00136, HK",HK
+ADDR-0137,CL-0137,REGISTERED,237 Fictional Commerce Avenue,Busan,SYN00137,KR,"237 Fictional Commerce Avenue, Busan, SYN00137, KR",KR
+ADDR-0138,CL-0138,REGISTERED,238 Fictional Commerce Avenue,Yokohama,SYN00138,JP,"238 Fictional Commerce Avenue, Yokohama, SYN00138, JP",JP
+ADDR-0139,CL-0139,REGISTERED,239 Fictional Commerce Avenue,Johor Bahru,SYN00139,MY,"239 Fictional Commerce Avenue, Johor Bahru, SYN00139, MY",MY
+ADDR-0140,CL-0140,REGISTERED,240 Fictional Commerce Avenue,Melbourne,SYN00140,AU,"240 Fictional Commerce Avenue, Melbourne, SYN00140, AU",AU
+ADDR-0141,CL-0141,REGISTERED,241 Fictional Commerce Avenue,Cebu City,SYN00141,PH,"241 Fictional Commerce Avenue, Cebu City, SYN00141, PH",PH
+ADDR-0142,CL-0142,REGISTERED,242 Fictional Commerce Avenue,Melbourne,SYN00142,AU,"242 Fictional Commerce Avenue, Melbourne, SYN00142, AU",AU
+ADDR-0143,CL-0143,REGISTERED,243 Fictional Commerce Avenue,Johor Bahru,SYN00143,MY,"243 Fictional Commerce Avenue, Johor Bahru, SYN00143, MY",MY
+ADDR-0144,CL-0144,REGISTERED,244 Fictional Commerce Avenue,Melbourne,SYN00144,AU,"244 Fictional Commerce Avenue, Melbourne, SYN00144, AU",AU
+ADDR-0145,CL-0145,REGISTERED,245 Fictional Commerce Avenue,Surabaya,SYN00145,ID,"245 Fictional Commerce Avenue, Surabaya, SYN00145, ID",ID
+ADDR-0146,CL-0146,REGISTERED,246 Fictional Commerce Avenue,Chiang Mai,SYN00146,TH,"246 Fictional Commerce Avenue, Chiang Mai, SYN00146, TH",TH
+ADDR-0147,CL-0147,REGISTERED,247 Fictional Commerce Avenue,Cebu City,SYN00147,PH,"247 Fictional Commerce Avenue, Cebu City, SYN00147, PH",PH
+ADDR-0148,CL-0148,REGISTERED,248 Fictional Commerce Avenue,Chiang Mai,SYN00148,TH,"248 Fictional Commerce Avenue, Chiang Mai, SYN00148, TH",TH
+ADDR-0149,CL-0149,REGISTERED,249 Fictional Commerce Avenue,Kowloon,SYN00149,HK,"249 Fictional Commerce Avenue, Kowloon, SYN00149, HK",HK
+ADDR-0150,CL-0150,REGISTERED,250 Fictional Commerce Avenue,Cebu City,SYN00150,PH,"250 Fictional Commerce Avenue, Cebu City, SYN00150, PH",PH
+ADDR-0151,CL-0151,REGISTERED,251 Fictional Commerce Avenue,Surabaya,SYN00151,ID,"251 Fictional Commerce Avenue, Surabaya, SYN00151, ID",ID
+ADDR-0152,CL-0152,REGISTERED,252 Fictional Commerce Avenue,Johor Bahru,SYN00152,MY,"252 Fictional Commerce Avenue, Johor Bahru, SYN00152, MY",MY
+ADDR-0153,CL-0153,REGISTERED,253 Fictional Commerce Avenue,Surabaya,SYN00153,ID,"253 Fictional Commerce Avenue, Surabaya, SYN00153, ID",ID
+ADDR-0154,CL-0154,REGISTERED,254 Fictional Commerce Avenue,Cebu City,SYN00154,PH,"254 Fictional Commerce Avenue, Cebu City, SYN00154, PH",PH
+ADDR-0155,CL-0155,REGISTERED,255 Fictional Commerce Avenue,Johor Bahru,SYN00155,MY,"255 Fictional Commerce Avenue, Johor Bahru, SYN00155, MY",MY
+ADDR-0156,CL-0156,REGISTERED,256 Fictional Commerce Avenue,Kowloon,SYN00156,HK,"256 Fictional Commerce Avenue, Kowloon, SYN00156, HK",HK
+ADDR-0157,CL-0157,REGISTERED,257 Fictional Commerce Avenue,Busan,SYN00157,KR,"257 Fictional Commerce Avenue, Busan, SYN00157, KR",KR
+ADDR-0158,CL-0158,REGISTERED,258 Fictional Commerce Avenue,Cebu City,SYN00158,PH,"258 Fictional Commerce Avenue, Cebu City, SYN00158, PH",PH
+ADDR-0159,CL-0159,REGISTERED,259 Fictional Commerce Avenue,Melbourne,SYN00159,AU,"259 Fictional Commerce Avenue, Melbourne, SYN00159, AU",AU
+ADDR-0160,CL-0160,REGISTERED,260 Fictional Commerce Avenue,Wellington,SYN00160,NZ,"260 Fictional Commerce Avenue, Wellington, SYN00160, NZ",NZ
+ADDR-0161,CL-0161,REGISTERED,261 Fictional Commerce Avenue,Singapore,SYN00161,SG,"261 Fictional Commerce Avenue, Singapore, SYN00161, SG",SG
+ADDR-0162,CL-0162,REGISTERED,262 Fictional Commerce Avenue,Chiang Mai,SYN00162,TH,"262 Fictional Commerce Avenue, Chiang Mai, SYN00162, TH",TH
+ADDR-0163,CL-0163,REGISTERED,263 Fictional Commerce Avenue,Melbourne,SYN00163,AU,"263 Fictional Commerce Avenue, Melbourne, SYN00163, AU",AU
+ADDR-0164,CL-0164,REGISTERED,264 Fictional Commerce Avenue,Johor Bahru,SYN00164,MY,"264 Fictional Commerce Avenue, Johor Bahru, SYN00164, MY",MY
+ADDR-0165,CL-0165,REGISTERED,265 Fictional Commerce Avenue,Busan,SYN00165,KR,"265 Fictional Commerce Avenue, Busan, SYN00165, KR",KR
+ADDR-0166,CL-0166,REGISTERED,266 Fictional Commerce Avenue,Yokohama,SYN00166,JP,"266 Fictional Commerce Avenue, Yokohama, SYN00166, JP",JP
+ADDR-0167,CL-0167,REGISTERED,267 Fictional Commerce Avenue,Surabaya,SYN00167,ID,"267 Fictional Commerce Avenue, Surabaya, SYN00167, ID",ID
+ADDR-0168,CL-0168,REGISTERED,268 Fictional Commerce Avenue,Kowloon,SYN00168,HK,"268 Fictional Commerce Avenue, Kowloon, SYN00168, HK",HK
+ADDR-0169,CL-0169,REGISTERED,269 Fictional Commerce Avenue,Yokohama,SYN00169,JP,"269 Fictional Commerce Avenue, Yokohama, SYN00169, JP",JP
+ADDR-0170,CL-0170,REGISTERED,270 Fictional Commerce Avenue,Surabaya,SYN00170,ID,"270 Fictional Commerce Avenue, Surabaya, SYN00170, ID",ID
+ADDR-0171,CL-0171,REGISTERED,271 Fictional Commerce Avenue,Wellington,SYN00171,NZ,"271 Fictional Commerce Avenue, Wellington, SYN00171, NZ",NZ
+ADDR-0172,CL-0172,REGISTERED,272 Fictional Commerce Avenue,Yokohama,SYN00172,JP,"272 Fictional Commerce Avenue, Yokohama, SYN00172, JP",JP
+ADDR-0173,CL-0173,REGISTERED,273 Fictional Commerce Avenue,Surabaya,SYN00173,ID,"273 Fictional Commerce Avenue, Surabaya, SYN00173, ID",ID
+ADDR-0174,CL-0174,REGISTERED,274 Fictional Commerce Avenue,Wellington,SYN00174,NZ,"274 Fictional Commerce Avenue, Wellington, SYN00174, NZ",NZ
+ADDR-0175,CL-0175,REGISTERED,275 Fictional Commerce Avenue,Chiang Mai,SYN00175,TH,"275 Fictional Commerce Avenue, Chiang Mai, SYN00175, TH",TH
+ADDR-0176,CL-0176,REGISTERED,276 Fictional Commerce Avenue,Surabaya,SYN00176,ID,"276 Fictional Commerce Avenue, Surabaya, SYN00176, ID",ID
+ADDR-0177,CL-0177,REGISTERED,277 Fictional Commerce Avenue,Kowloon,SYN00177,HK,"277 Fictional Commerce Avenue, Kowloon, SYN00177, HK",HK
+ADDR-0178,CL-0178,REGISTERED,278 Fictional Commerce Avenue,Yokohama,SYN00178,JP,"278 Fictional Commerce Avenue, Yokohama, SYN00178, JP",JP
+ADDR-0179,CL-0179,REGISTERED,279 Fictional Commerce Avenue,Surabaya,SYN00179,ID,"279 Fictional Commerce Avenue, Surabaya, SYN00179, ID",ID
+ADDR-0180,CL-0180,REGISTERED,280 Fictional Commerce Avenue,Melbourne,SYN00180,AU,"280 Fictional Commerce Avenue, Melbourne, SYN00180, AU",AU
+ADDR-0181,CL-0181,REGISTERED,281 Fictional Commerce Avenue,Johor Bahru,SYN00181,MY,"281 Fictional Commerce Avenue, Johor Bahru, SYN00181, MY",MY
+ADDR-0182,CL-0182,REGISTERED,282 Fictional Commerce Avenue,Singapore,SYN00182,SG,"282 Fictional Commerce Avenue, Singapore, SYN00182, SG",SG
+ADDR-0183,CL-0183,REGISTERED,283 Fictional Commerce Avenue,Wellington,SYN00183,NZ,"283 Fictional Commerce Avenue, Wellington, SYN00183, NZ",NZ
+ADDR-0184,CL-0184,REGISTERED,284 Fictional Commerce Avenue,Surabaya,SYN00184,ID,"284 Fictional Commerce Avenue, Surabaya, SYN00184, ID",ID
+ADDR-0185,CL-0185,REGISTERED,285 Fictional Commerce Avenue,Wellington,SYN00185,NZ,"285 Fictional Commerce Avenue, Wellington, SYN00185, NZ",NZ
+ADDR-0186,CL-0186,REGISTERED,286 Fictional Commerce Avenue,Melbourne,SYN00186,AU,"286 Fictional Commerce Avenue, Melbourne, SYN00186, AU",AU
+ADDR-0187,CL-0187,REGISTERED,287 Fictional Commerce Avenue,Yokohama,SYN00187,JP,"287 Fictional Commerce Avenue, Yokohama, SYN00187, JP",JP
+ADDR-0188,CL-0188,REGISTERED,288 Fictional Commerce Avenue,Johor Bahru,SYN00188,MY,"288 Fictional Commerce Avenue, Johor Bahru, SYN00188, MY",MY
+ADDR-0189,CL-0189,REGISTERED,289 Fictional Commerce Avenue,Melbourne,SYN00189,AU,"289 Fictional Commerce Avenue, Melbourne, SYN00189, AU",AU
+ADDR-0190,CL-0190,REGISTERED,290 Fictional Commerce Avenue,Yokohama,SYN00190,JP,"290 Fictional Commerce Avenue, Yokohama, SYN00190, JP",JP
+ADDR-0191,CL-0191,REGISTERED,291 Fictional Commerce Avenue,Chiang Mai,SYN00191,TH,"291 Fictional Commerce Avenue, Chiang Mai, SYN00191, TH",TH
+ADDR-0192,CL-0192,REGISTERED,292 Fictional Commerce Avenue,Wellington,SYN00192,NZ,"292 Fictional Commerce Avenue, Wellington, SYN00192, NZ",NZ
+ADDR-0193,CL-0193,REGISTERED,293 Fictional Commerce Avenue,Wellington,SYN00193,NZ,"293 Fictional Commerce Avenue, Wellington, SYN00193, NZ",NZ
+ADDR-0194,CL-0194,REGISTERED,294 Fictional Commerce Avenue,Singapore,SYN00194,SG,"294 Fictional Commerce Avenue, Singapore, SYN00194, SG",SG
+ADDR-0195,CL-0195,REGISTERED,295 Fictional Commerce Avenue,Surabaya,SYN00195,ID,"295 Fictional Commerce Avenue, Surabaya, SYN00195, ID",ID
+ADDR-0196,CL-0196,REGISTERED,296 Fictional Commerce Avenue,Chiang Mai,SYN00196,TH,"296 Fictional Commerce Avenue, Chiang Mai, SYN00196, TH",TH
+ADDR-0197,CL-0197,REGISTERED,297 Fictional Commerce Avenue,Chiang Mai,SYN00197,TH,"297 Fictional Commerce Avenue, Chiang Mai, SYN00197, TH",TH
+ADDR-0198,CL-0198,REGISTERED,298 Fictional Commerce Avenue,Melbourne,SYN00198,AU,"298 Fictional Commerce Avenue, Melbourne, SYN00198, AU",AU
+ADDR-0199,CL-0199,REGISTERED,299 Fictional Commerce Avenue,Melbourne,SYN00199,AU,"299 Fictional Commerce Avenue, Melbourne, SYN00199, AU",AU
+ADDR-0200,CL-0200,REGISTERED,300 Fictional Commerce Avenue,Singapore,SYN00200,SG,"300 Fictional Commerce Avenue, Singapore, SYN00200, SG",SG
